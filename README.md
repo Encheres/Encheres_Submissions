@@ -12,6 +12,7 @@
 - [UML Activity Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/activity_diagram_encheres.svg)
 - [UML Class Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/Class_diagram_encheres.pdf)
 - [UML Sequence Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/Sequence_diagram_encheres.svg)
+- [UML State Chart Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/State_chart_diagram_Encheres.pdf)
 
 ## Project Write-up
 - [Project Write-up](https://github.com/Encheres/Encheres_Submissions/blob/main/project_write-up.pdf)
