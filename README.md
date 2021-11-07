@@ -10,6 +10,7 @@
 ## UML Diagrams
 - [UML Use Case Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/use_case_diagram_encheres.pdf)
 - [UML Activity Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/activity_diagram_encheres.svg)
+- [UML Class Diagram](https://github.com/Encheres/Encheres_Submissions/blob/main/UML_Diagrams/Class_diagram_encheres.pdf)
 
 ## Project Write-up
 - [Project Write-up](https://github.com/Encheres/Encheres_Submissions/blob/main/project_write-up.pdf)
